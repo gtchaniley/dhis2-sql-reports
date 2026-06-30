@@ -21,7 +21,7 @@ const config = {
     dataStore: true,
 
     auth: {
-        baseUrl: 'https://palu.togodhis2.org/mid',
+        baseUrl: 'https://palu.togodhis2.org',
     },
 }
 
